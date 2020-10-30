@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.example</groupId>
+    <artifactId>EffectiveJava</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
+        <properties>
+        <maven.compiler.plugin.version>11</maven.compiler.plugin.version>
+        <maven.help.plugin.version>3.2.0</maven.help.plugin.version>
+        <apache.commons.collections4.version>4.2</apache.commons.collections4.version>
+        <apache.commoms.version>1.1</apache.commoms.version>
+        <commons.io.version>2.6</commons.io.version>
+        <junit.jupiter.version>5.4.2</junit.jupiter.version>
+        <junit5.version>5.0.0-ALPHA</junit5.version>
+        <junit.version>4.12</junit.version>
+        <hamcrest.junit.version>2.0.0.0</hamcrest.junit.version>
+        <hamcrest.all.version>1.3</hamcrest.all.version>
+        <powermock.version>1.6.2</powermock.version>
+        <mockito.version>3.5.13</mockito.version>
+        <cucumber.version>6.8.1</cucumber.version>
+        <cucumber.datatable.version>1.1.7</cucumber.datatable.version>
+        <cucumber.java.cukes.version>1.2.6</cucumber.java.cukes.version>
+        <cucmber.gherkin.version>15.0.2</cucmber.gherkin.version>
+        <jetbains.annotations.version>13.0</jetbains.annotations.version>
+        <lombok.version>1.18.12</lombok.version>
+        <log4j.version>2.11.2</log4j.version>
+    </properties>
+
+    <!--BUILD-->
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <configuration>
+                    <source>${maven.compiler.plugin.version}</source>
+                    <target>${maven.compiler.plugin.version}</target>
+                </configuration>
+            </plugin>
+
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-help-plugin</artifactId>
+                <version>${maven.help.plugin.version}</version>
+                <executions>
+                    <execution>
+                        <id>show-profiles</id>
+                        <phase>compile</phase>
+                        <goals>
+                            <goal>active-profiles</goal>
+                        </goals>
+                    </execution>
+                </executions>
+            </plugin>
+
+        </plugins>
+    </build>
+
+
+    <dependencies>
+    <dependency>
+        <groupId>org.apache.commons</groupId>
+        <artifactId>commons-text</artifactId>
+        <version>${apache.commoms.version}</version>
+    </dependency>
+    <dependency>
+        <groupId>org.apache.commons</groupId>
+        <artifactId>commons-collections4</artifactId>
+        <version>${apache.commons.collections4.version}</version>
+    </dependency>
+    <dependency>
+        <groupId>org.junit.jupiter</groupId>
+        <artifactId>junit-jupiter-engine</artifactId>
+        <version>${junit.jupiter.version}</version>
+        <scope>test</scope>
+    </dependency>
+        <dependency>
+        <groupId>org.junit.platform</groupId>
+        <artifactId>junit-platform-launcher</artifactId>
+        <version>1.2.0</version>
+        </dependency>
+    <dependency>
+        <groupId>org.junit.jupiter</groupId>
+        <artifactId>junit-jupiter-params</artifactId>
+        <version>${junit.jupiter.version}</version>
+        <scope>test</scope>
+    </dependency>
+    <dependency>
+        <groupId>org.junit.jupiter</groupId>
+        <artifactId>junit-jupiter-api</artifactId>
+        <version>${junit.jupiter.version}</version>
+        <scope>test</scope>
+    </dependency>
+<!--    <dependency>-->
+<!--        <groupId>org.junit</groupId>-->
+<!--        <artifactId>junit5-engine</artifactId>-->
+<!--        <version>${junit5.version}</version>-->
+<!--    </dependency>-->
+    <dependency>
+        <artifactId>junit</artifactId>
+        <groupId>junit</groupId>
+        <version>${junit.version}</version>
+    </dependency>
+        <dependency>
+            <groupId>org.openjdk.jmh</groupId>
+            <artifactId>jmh-core</artifactId>
+            <version>1.19</version>
+        </dependency>
+        <dependency>
+            <groupId>org.openjdk.jmh</groupId>
+            <artifactId>jmh-generator-annprocess</artifactId>
+            <version>1.19</version>
+        </dependency>
+    </dependencies>
+
+
+</project>

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="567a41bd-52bc-48a4-9b11-48414d31ec50" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jTQcyoH7It3IRE86TuSHlcgWNu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.epam.elearn.effectivejava" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.epam.elearn.effectivejava.algorithmtests" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WORK\Epam\ELearn\JavaMentoringProgram\3.EffectiveJava\src\test\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BenchmarkRunner">
+    <configuration name="BenchmarkRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.epam.elearn.effectivejava.BenchmarkRunner" />
+      <module name="EffectiveJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.elearn.effectivejava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinarySearchTreeTest.givenABinaryTree_WhenTraversingInOrder_ThenPrintValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EffectiveJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.elearn.effectivejava.algorithmtests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.elearn.effectivejava.algorithmtests" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.elearn.effectivejava.algorithmtests.BinarySearchTreeTest" />
+      <option name="METHOD_NAME" value="givenABinaryTree_WhenTraversingInOrder_ThenPrintValues" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinarySearchTreeTest.givenABinaryTree_WhenTraversingLevelOrder_ThenPrintValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EffectiveJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.elearn.effectivejava.algorithmtests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.elearn.effectivejava.algorithmtests" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.elearn.effectivejava.algorithmtests.BinarySearchTreeTest" />
+      <option name="METHOD_NAME" value="givenABinaryTree_WhenTraversingLevelOrder_ThenPrintValues" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinarySearchTreeTest.givenABinaryTree_WhenTraversingPostOrder_ThenPrintValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EffectiveJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.elearn.effectivejava.algorithmtests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.elearn.effectivejava.algorithmtests" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.elearn.effectivejava.algorithmtests.BinarySearchTreeTest" />
+      <option name="METHOD_NAME" value="givenABinaryTree_WhenTraversingPostOrder_ThenPrintValues" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinarySearchTreeTest.givenABinaryTree_WhenTraversingPreOrder_ThenPrintValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EffectiveJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.elearn.effectivejava.algorithmtests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.elearn.effectivejava.algorithmtests" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.elearn.effectivejava.algorithmtests.BinarySearchTreeTest" />
+      <option name="METHOD_NAME" value="givenABinaryTree_WhenTraversingPreOrder_ThenPrintValues" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BenchmarkRunner" />
+        <item itemvalue="JUnit.BinarySearchTreeTest.givenABinaryTree_WhenTraversingLevelOrder_ThenPrintValues" />
+        <item itemvalue="JUnit.BinarySearchTreeTest.givenABinaryTree_WhenTraversingPostOrder_ThenPrintValues" />
+        <item itemvalue="JUnit.BinarySearchTreeTest.givenABinaryTree_WhenTraversingPreOrder_ThenPrintValues" />
+        <item itemvalue="JUnit.BinarySearchTreeTest.givenABinaryTree_WhenTraversingInOrder_ThenPrintValues" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="567a41bd-52bc-48a4-9b11-48414d31ec50" name="Default Changelist" comment="" />
+      <created>1603825684941</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603825684941</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="50" width="1089" height="774" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603831782460">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="50" width="1089" height="774" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1603831782460" />
+    <state x="566" y="272" width="409" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1604085421529">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="566" y="272" width="409" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1604085421529" />
+    <state x="393" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1604090603153">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="393" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1604090603153" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604090230223">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1604090230223" />
+    <state width="1493" height="262" key="GridCell.Tab.0.bottom" timestamp="1604091016385">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1604091016385" />
+    <state width="1493" height="262" key="GridCell.Tab.0.center" timestamp="1604091016385">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1604091016385" />
+    <state width="1493" height="262" key="GridCell.Tab.0.left" timestamp="1604091016385">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1604091016385" />
+    <state width="1493" height="262" key="GridCell.Tab.0.right" timestamp="1604091016385">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1604091016385" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1604085456849">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1604085456849" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1604085456849">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1604085456849" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1604085456849">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1604085456849" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1604085456849">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1604085456849" />
+    <state x="475" y="41" key="refactoring.ChangeSignatureDialog" timestamp="1604087307974">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="475" y="41" key="refactoring.ChangeSignatureDialog/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1604087307974" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1603916352492">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1603916352492" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/algorithmtests/MergeSortAlgorithmTest.java</url>
+          <line>25</line>
+          <properties class="com.epam.elearn.effectivejava.algorithmtests.MergeSortAlgorithmTest" method="testShouldReturnUnsuccessfulOnEmptyArray">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
