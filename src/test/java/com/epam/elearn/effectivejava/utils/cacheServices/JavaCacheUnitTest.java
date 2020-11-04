@@ -1,4 +1,4 @@
-package com.epam.elearn.effectivejava.cacheServices;
+package com.epam.elearn.effectivejava.utils.cacheServices;
 
 import org.junit.Test;
 import org.junit.jupiter.api.BeforeEach;

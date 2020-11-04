@@ -2,7 +2,7 @@ BINARY SEARCH: RECURSIVE VS ITERATIVE:
 
 Considering these two approaches to implement binary search algorithm both will have the same time complexity O(log(n)), 
 but they will different in term of space usage.
-Recursive May reach to "log(n)" space (because of the stack), in iterative BS it should be "O(1)" space complexity.
+Recursive may reach to "log(n)" space (because of the stack), in iterative BS it should be "O(1)" space complexity.
 
 Please find the benchmark tests results below:
 

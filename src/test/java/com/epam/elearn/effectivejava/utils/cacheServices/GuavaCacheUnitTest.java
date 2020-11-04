@@ -1,4 +1,4 @@
-package com.epam.elearn.effectivejava.cacheServices;
+package com.epam.elearn.effectivejava.utils.cacheServices;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;

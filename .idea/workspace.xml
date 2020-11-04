@@ -1,7 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="567a41bd-52bc-48a4-9b11-48414d31ec50" name="Default Changelist" comment="" />
+    <list default="true" id="567a41bd-52bc-48a4-9b11-48414d31ec50" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/elearn/effectivejava/algorithms/RecursiveBinarySearchAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/elearn/effectivejava/algorithms/Sortable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/algorithms/parametrized/search/impl/IterativeBinarySearchAlgorithmTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/algorithms/parametrized/search/impl/RecursiveBinarySearchAlgorithmTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/algorithms/parametrized/sort/SortingAlgorithmAggregatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/algorithms/parametrized/sort/impl/BinaryInsertionSortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/algorithms/parametrized/sort/impl/InsertionSortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/algorithms/parametrized/sort/impl/MergeSortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/utils/JavaCacheService$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/utils/JavaCacheService$cacheObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/utils/JavaCacheService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/epam/elearn/effectivejava/algorithms/BinaryInsertionSortAlgorithmTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/epam/elearn/effectivejava/algorithms/InsertionSortAlgorithmTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BinarySearchTree/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/elearn/effectivejava/datastructures/BinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/elearn/effectivejava/BinaryInsertionSortAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/elearn/effectivejava/algorithms/BinaryInsertionSortAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/elearn/effectivejava/InsertionSortAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/elearn/effectivejava/algorithms/InsertionSortAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/elearn/effectivejava/IterativeBinarySearchAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/elearn/effectivejava/algorithms/IterativeBinarySearchAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/elearn/effectivejava/MergeSortAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/elearn/effectivejava/algorithms/MergeSortAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/elearn/effectivejava/RecursiveBinarySearchAlgorithm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/JavaCacheService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/JavaCacheService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/BenchMark.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/BenchMark.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/algorithms/BinaryInsertionSortAlgorithmTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/algorithms/junitclassic/BinaryInsertionSortAlgorithmTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/algorithms/BinarySearchTreeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/datastructures/BinarySearchTreeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/algorithms/InsertionSortAlgorithmTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/algorithms/junitclassic/InsertionSortAlgorithmTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/algorithms/IterativeBinarySearchAlgorithmTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/algorithms/junitclassic/IterativeBinarySearchAlgorithmTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/algorithms/MergeSortAlgorithmTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/algorithms/junitclassic/MergeSortAlgorithmTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/algorithms/RecursiveBinarySearchAlgorithmTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/algorithms/junitclassic/RecursiveBinarySearchAlgorithmTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/utils/cacheServices/GuavaCacheUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/utils/cacheServices/GuavaCacheUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/utils/cacheServices/JavaCacheUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/utils/cacheServices/JavaCacheUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BinarySearchTree/BinaryTree$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BinarySearchTree/BinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/epam/elearn/effectivejava/BinaryInsertionSortAlgorithm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/epam/elearn/effectivejava/InsertionSortAlgorithm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/epam/elearn/effectivejava/IterativeBinarySearchAlgorithm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/epam/elearn/effectivejava/MergeSortAlgorithm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/epam/elearn/effectivejava/RecursiveBinarySearchAlgorithm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/BenchmarkList" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/META-INF/BenchmarkList" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/CompilerHints" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/META-INF/CompilerHints" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/epam/elearn/effectivejava/BenchMark$ExecutionPlan.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/epam/elearn/effectivejava/BenchMark$ExecutionPlan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/epam/elearn/effectivejava/BenchMark.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/epam/elearn/effectivejava/BenchMark.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/epam/elearn/effectivejava/algorithmtests/BinaryInsertionSortAlgorithmTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/epam/elearn/effectivejava/algorithmtests/BinarySearchTreeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/epam/elearn/effectivejava/algorithmtests/InsertionSortAlgorithmTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/epam/elearn/effectivejava/algorithmtests/IterativeBinarySearchAlgorithmTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/epam/elearn/effectivejava/algorithms/IterativeBinarySearchAlgorithmTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/epam/elearn/effectivejava/algorithmtests/MergeSortAlgorithmTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/epam/elearn/effectivejava/algorithms/MergeSortAlgorithmTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/epam/elearn/effectivejava/algorithmtests/RecursiveBinarySearchAlgorithmTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/epam/elearn/effectivejava/algorithms/RecursiveBinarySearchAlgorithmTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,9 +60,14 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -23,6 +78,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1jTQcyoH7It3IRE86TuSHlcgWNu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -30,11 +86,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.epam.elearn.effectivejava.algorithms.inputsortedarray" />
+      <recent name="com.epam.elearn.effectivejava.datastructures" />
+      <recent name="com.epam.elearn.effectivejava.algorithms" />
       <recent name="com.epam.elearn.effectivejava" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -44,79 +105,81 @@
       <recent name="D:\WORK\Epam\ELearn\JavaMentoringProgram\3.EffectiveJava\src\test\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BenchmarkRunner">
-    <configuration name="BenchmarkRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.epam.elearn.effectivejava.BenchmarkRunner" />
+  <component name="RunManager" selected="JUnit.SortingAlgorithmAggregatorTest.test">
+    <configuration name="IterativeBinarySearchAlgorithmTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="EffectiveJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.epam.elearn.effectivejava.*" />
+          <option name="PATTERN" value="com.epam.elearn.effectivejava.algorithms.parametrized.search.impl.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.epam.elearn.effectivejava.algorithms.parametrized.search.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.elearn.effectivejava.algorithms.parametrized.search.impl.IterativeBinarySearchAlgorithmTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BinarySearchTreeTest.givenABinaryTree_WhenTraversingInOrder_ThenPrintValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="IterativeBinarySearchAlgorithmTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="EffectiveJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.epam.elearn.effectivejava.algorithmtests.*" />
+          <option name="PATTERN" value="com.epam.elearn.effectivejava.algorithms.parametrized.search.impl.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.epam.elearn.effectivejava.algorithmtests" />
-      <option name="MAIN_CLASS_NAME" value="com.epam.elearn.effectivejava.algorithmtests.BinarySearchTreeTest" />
-      <option name="METHOD_NAME" value="givenABinaryTree_WhenTraversingInOrder_ThenPrintValues" />
+      <option name="PACKAGE_NAME" value="com.epam.elearn.effectivejava.algorithms.parametrized.search.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.elearn.effectivejava.algorithms.parametrized.search.impl.IterativeBinarySearchAlgorithmTest" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BinarySearchTreeTest.givenABinaryTree_WhenTraversingLevelOrder_ThenPrintValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="JavaCacheUnitTest.testObjectsCleanupTime" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="EffectiveJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.epam.elearn.effectivejava.algorithmtests.*" />
+          <option name="PATTERN" value="com.epam.elearn.effectivejava.utils.cacheServices.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.epam.elearn.effectivejava.algorithmtests" />
-      <option name="MAIN_CLASS_NAME" value="com.epam.elearn.effectivejava.algorithmtests.BinarySearchTreeTest" />
-      <option name="METHOD_NAME" value="givenABinaryTree_WhenTraversingLevelOrder_ThenPrintValues" />
+      <option name="PACKAGE_NAME" value="com.epam.elearn.effectivejava.utils.cacheServices" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.elearn.effectivejava.utils.cacheServices.JavaCacheUnitTest" />
+      <option name="METHOD_NAME" value="testObjectsCleanupTime" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BinarySearchTreeTest.givenABinaryTree_WhenTraversingPostOrder_ThenPrintValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RecursiveBinarySearchAlgorithmTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="EffectiveJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.epam.elearn.effectivejava.algorithmtests.*" />
+          <option name="PATTERN" value="com.epam.elearn.effectivejava.algorithms.parametrized.search.impl.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.epam.elearn.effectivejava.algorithmtests" />
-      <option name="MAIN_CLASS_NAME" value="com.epam.elearn.effectivejava.algorithmtests.BinarySearchTreeTest" />
-      <option name="METHOD_NAME" value="givenABinaryTree_WhenTraversingPostOrder_ThenPrintValues" />
+      <option name="PACKAGE_NAME" value="com.epam.elearn.effectivejava.algorithms.parametrized.search.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.elearn.effectivejava.algorithms.parametrized.search.impl.RecursiveBinarySearchAlgorithmTest" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BinarySearchTreeTest.givenABinaryTree_WhenTraversingPreOrder_ThenPrintValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SortingAlgorithmAggregatorTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="EffectiveJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.epam.elearn.effectivejava.algorithmtests.*" />
+          <option name="PATTERN" value="com.epam.elearn.effectivejava.algorithms.parametrized.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.epam.elearn.effectivejava.algorithmtests" />
-      <option name="MAIN_CLASS_NAME" value="com.epam.elearn.effectivejava.algorithmtests.BinarySearchTreeTest" />
-      <option name="METHOD_NAME" value="givenABinaryTree_WhenTraversingPreOrder_ThenPrintValues" />
+      <option name="PACKAGE_NAME" value="com.epam.elearn.effectivejava.algorithms.parametrized.sort" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.elearn.effectivejava.algorithms.parametrized.sort.SortingAlgorithmAggregatorTest" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -124,11 +187,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BenchmarkRunner" />
-        <item itemvalue="JUnit.BinarySearchTreeTest.givenABinaryTree_WhenTraversingLevelOrder_ThenPrintValues" />
-        <item itemvalue="JUnit.BinarySearchTreeTest.givenABinaryTree_WhenTraversingPostOrder_ThenPrintValues" />
-        <item itemvalue="JUnit.BinarySearchTreeTest.givenABinaryTree_WhenTraversingPreOrder_ThenPrintValues" />
-        <item itemvalue="JUnit.BinarySearchTreeTest.givenABinaryTree_WhenTraversingInOrder_ThenPrintValues" />
+        <item itemvalue="JUnit.SortingAlgorithmAggregatorTest.test" />
+        <item itemvalue="JUnit.RecursiveBinarySearchAlgorithmTest.test" />
+        <item itemvalue="JUnit.IterativeBinarySearchAlgorithmTest.test" />
+        <item itemvalue="JUnit.IterativeBinarySearchAlgorithmTest" />
+        <item itemvalue="JUnit.JavaCacheUnitTest.testObjectsCleanupTime" />
       </list>
     </recent_temporary>
   </component>
@@ -146,54 +209,78 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Inspections" timestamp="1604338523029">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Inspections/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1604338523029" />
     <state x="223" y="50" width="1089" height="774" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603831782460">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="50" width="1089" height="774" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1603831782460" />
-    <state x="566" y="272" width="409" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1604085421529">
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1604497663752">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="566" y="272" width="409" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1604085421529" />
-    <state x="393" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1604090603153">
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1604497663752" />
+    <state x="295" y="338" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1604500714556">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="393" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1604090603153" />
+    <state x="295" y="338" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1604500714556" />
+    <state x="566" y="272" width="918" height="289" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1604495696847">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="566" y="272" width="918" height="289" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1604495696847" />
+    <state x="393" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1604496110576">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="393" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1604496110576" />
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604090230223">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1604090230223" />
-    <state width="1493" height="262" key="GridCell.Tab.0.bottom" timestamp="1604091016385">
+    <state x="516" y="259" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1604272747064">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="262" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1604091016385" />
-    <state width="1493" height="262" key="GridCell.Tab.0.center" timestamp="1604091016385">
+    <state x="516" y="259" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1604272747064" />
+    <state width="1493" height="251" key="GridCell.Tab.0.bottom" timestamp="1604501949851">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="262" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1604091016385" />
-    <state width="1493" height="262" key="GridCell.Tab.0.left" timestamp="1604091016385">
+    <state width="1493" height="251" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1604501949851" />
+    <state width="1493" height="251" key="GridCell.Tab.0.center" timestamp="1604501949850">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="262" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1604091016385" />
-    <state width="1493" height="262" key="GridCell.Tab.0.right" timestamp="1604091016385">
+    <state width="1493" height="251" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1604501949850" />
+    <state width="1493" height="251" key="GridCell.Tab.0.left" timestamp="1604501949850">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="262" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1604091016385" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1604085456849">
+    <state width="1493" height="251" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1604501949850" />
+    <state width="1493" height="251" key="GridCell.Tab.0.right" timestamp="1604501949851">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1604085456849" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1604085456849">
+    <state width="1493" height="251" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1604501949851" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1604501856380">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1604085456849" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1604085456849">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1604501856380" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1604501856380">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1604085456849" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1604085456849">
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1604501856380" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1604501856380">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1604085456849" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1604501856380" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1604501856380">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1604501856380" />
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1604271312808">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1604271312808" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1604338970262">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1604338970262" />
     <state x="475" y="41" key="refactoring.ChangeSignatureDialog" timestamp="1604087307974">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -207,12 +294,25 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/algorithmtests/MergeSortAlgorithmTest.java</url>
-          <line>25</line>
-          <properties class="com.epam.elearn.effectivejava.algorithmtests.MergeSortAlgorithmTest" method="testShouldReturnUnsuccessfulOnEmptyArray">
+          <url>file://$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/algorithms/junitclassic/MergeSortAlgorithmTest.java</url>
+          <line>24</line>
+          <properties class="com.epam.elearn.effectivejava.algorithms.MergeSortAlgorithmTest" method="testShouldReturnUnsuccessfulOnEmptyArray">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/algorithms/parametrized/search/impl/IterativeBinarySearchAlgorithmTest.java</url>
+          <line>45</line>
+          <properties class="com.epam.elearn.effectivejava.algorithms.search.impl.IterativeBinarySearchAlgorithmTest" method="test">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/algorithms/parametrized/search/impl/IterativeBinarySearchAlgorithmTest.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

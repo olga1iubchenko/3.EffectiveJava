@@ -6,3 +6,6 @@ dontinline,*.*_thrpt_jmhStub
 inline,com/epam/elearn/effectivejava/BenchMark$ExecutionPlan.setUp
 inline,com/epam/elearn/effectivejava/BenchMark.testBinaryInsertionSortBenchmark
 inline,com/epam/elearn/effectivejava/BenchMark.testInsertionSortBenchmark
+inline,com/epam/elearn/effectivejava/BenchMark.testIterativeBinarySearchBenchmark
+inline,com/epam/elearn/effectivejava/BenchMark.testMergeSortBenchmark
+inline,com/epam/elearn/effectivejava/BenchMark.testRecursiveBinarySearchBenchmark
