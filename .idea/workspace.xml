@@ -160,9 +160,9 @@
       <list>
         <item itemvalue="JUnit.SortingAlgorithmAggregatorTest.test" />
         <item itemvalue="JUnit.RecursiveBinarySearchAlgorithmTest.test" />
+        <item itemvalue="JUnit.JavaCacheUnitTest.testObjectsCleanupTime" />
         <item itemvalue="JUnit.IterativeBinarySearchAlgorithmTest.test" />
         <item itemvalue="JUnit.IterativeBinarySearchAlgorithmTest" />
-        <item itemvalue="JUnit.JavaCacheUnitTest.testObjectsCleanupTime" />
       </list>
     </recent_temporary>
   </component>
