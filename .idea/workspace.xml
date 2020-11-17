@@ -2,60 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="567a41bd-52bc-48a4-9b11-48414d31ec50" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/elearn/effectivejava/algorithms/RecursiveBinarySearchAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/elearn/effectivejava/algorithms/Sortable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/algorithms/parametrized/search/impl/IterativeBinarySearchAlgorithmTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/algorithms/parametrized/search/impl/RecursiveBinarySearchAlgorithmTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/algorithms/parametrized/sort/SortingAlgorithmAggregatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/algorithms/parametrized/sort/impl/BinaryInsertionSortTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/algorithms/parametrized/sort/impl/InsertionSortTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/algorithms/parametrized/sort/impl/MergeSortTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/utils/JavaCacheService$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/utils/JavaCacheService$cacheObject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/utils/JavaCacheService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/epam/elearn/effectivejava/algorithms/BinaryInsertionSortAlgorithmTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/epam/elearn/effectivejava/algorithms/InsertionSortAlgorithmTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BinarySearchTree/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/elearn/effectivejava/datastructures/BinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/elearn/effectivejava/BinaryInsertionSortAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/elearn/effectivejava/algorithms/BinaryInsertionSortAlgorithm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/elearn/effectivejava/InsertionSortAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/elearn/effectivejava/algorithms/InsertionSortAlgorithm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/elearn/effectivejava/IterativeBinarySearchAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/elearn/effectivejava/algorithms/IterativeBinarySearchAlgorithm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/elearn/effectivejava/MergeSortAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/elearn/effectivejava/algorithms/MergeSortAlgorithm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/elearn/effectivejava/RecursiveBinarySearchAlgorithm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/utils/JavaCacheService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/JavaCacheService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/BenchMark.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/BenchMark.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/algorithms/BinaryInsertionSortAlgorithmTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/algorithms/junitclassic/BinaryInsertionSortAlgorithmTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/algorithms/BinarySearchTreeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/datastructures/BinarySearchTreeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/algorithms/InsertionSortAlgorithmTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/algorithms/junitclassic/InsertionSortAlgorithmTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/algorithms/IterativeBinarySearchAlgorithmTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/algorithms/junitclassic/IterativeBinarySearchAlgorithmTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/algorithms/MergeSortAlgorithmTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/algorithms/junitclassic/MergeSortAlgorithmTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/algorithms/RecursiveBinarySearchAlgorithmTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/algorithms/junitclassic/RecursiveBinarySearchAlgorithmTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/utils/cacheServices/GuavaCacheUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/utils/cacheServices/GuavaCacheUnitTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/utils/cacheServices/JavaCacheUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/utils/cacheServices/JavaCacheUnitTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/BinarySearchTree/BinaryTree$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/BinarySearchTree/BinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/epam/elearn/effectivejava/BinaryInsertionSortAlgorithm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/epam/elearn/effectivejava/InsertionSortAlgorithm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/epam/elearn/effectivejava/IterativeBinarySearchAlgorithm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/epam/elearn/effectivejava/MergeSortAlgorithm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/epam/elearn/effectivejava/RecursiveBinarySearchAlgorithm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/BenchmarkList" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/META-INF/BenchmarkList" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/CompilerHints" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/META-INF/CompilerHints" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/epam/elearn/effectivejava/BenchMark$ExecutionPlan.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/epam/elearn/effectivejava/BenchMark$ExecutionPlan.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/epam/elearn/effectivejava/BenchMark.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/epam/elearn/effectivejava/BenchMark.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/epam/elearn/effectivejava/algorithmtests/BinaryInsertionSortAlgorithmTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/epam/elearn/effectivejava/algorithmtests/BinarySearchTreeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/epam/elearn/effectivejava/algorithmtests/InsertionSortAlgorithmTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/epam/elearn/effectivejava/algorithmtests/IterativeBinarySearchAlgorithmTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/epam/elearn/effectivejava/algorithms/IterativeBinarySearchAlgorithmTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/epam/elearn/effectivejava/algorithmtests/MergeSortAlgorithmTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/epam/elearn/effectivejava/algorithms/MergeSortAlgorithmTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/epam/elearn/effectivejava/algorithmtests/RecursiveBinarySearchAlgorithmTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/epam/elearn/effectivejava/algorithms/RecursiveBinarySearchAlgorithmTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/algorithms/parametrized/sort/SortingAlgorithmAggregatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/algorithms/parametrized/sort/SortingAlgorithmAggregatorTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/../5.BuildTools/gradle/build tools/builders">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -87,7 +58,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../5.BuildTools/gradle/build tools/builders" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
   </component>
@@ -206,7 +177,19 @@
       <option name="presentableId" value="Default" />
       <updated>1603825684941</updated>
     </task>
+    <task id="LOCAL-00001" summary="Parametrized tests added">
+      <created>1604502096382</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604502096382</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Parametrized tests added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Parametrized tests added" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="71" key="#Inspections" timestamp="1604338523029">
@@ -241,6 +224,15 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="516" y="259" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1604272747064" />
+    <state x="171" y="7" key="CommitChangelistDialog2" timestamp="1604502095089">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="171" y="7" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1604502095089" />
+    <state x="549" y="130" key="FileChooserDialogImpl" timestamp="1605101241851">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="130" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1605026193209" />
+    <state x="549" y="130" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605101241851" />
     <state width="1493" height="251" key="GridCell.Tab.0.bottom" timestamp="1604501949851">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -277,10 +269,15 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1604271312808" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1604338970262">
+    <state x="439" y="111" key="NewModule_or_Project.wizard" timestamp="1605101246681">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1604338970262" />
+    <state x="439" y="111" key="NewModule_or_Project.wizard/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1605026195414" />
+    <state x="439" y="111" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1605101246681" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1604502102297">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1604502102297" />
     <state x="475" y="41" key="refactoring.ChangeSignatureDialog" timestamp="1604087307974">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -296,7 +293,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/algorithms/junitclassic/MergeSortAlgorithmTest.java</url>
           <line>24</line>
-          <properties class="com.epam.elearn.effectivejava.algorithms.MergeSortAlgorithmTest" method="testShouldReturnUnsuccessfulOnEmptyArray">
+          <properties class="com.epam.elearn.effectivejava.algorithms.junitclassic.MergeSortAlgorithmTest" method="testShouldReturnUnsuccessfulOnEmptyArray">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="1" />
@@ -304,7 +301,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/algorithms/parametrized/search/impl/IterativeBinarySearchAlgorithmTest.java</url>
           <line>45</line>
-          <properties class="com.epam.elearn.effectivejava.algorithms.search.impl.IterativeBinarySearchAlgorithmTest" method="test">
+          <properties class="com.epam.elearn.effectivejava.algorithms.parametrized.search.impl.IterativeBinarySearchAlgorithmTest" method="test">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="2" />

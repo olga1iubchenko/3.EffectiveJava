@@ -34,7 +34,7 @@ public abstract class SortingAlgorithmAggregatorTest {
     public SortingAlgorithmAggregatorTest (Sortable sortable) {
         this.sortable = sortable;
     }
-    
+
     @Test
     public void test() {
         int[] actual = sortable.sort(inputArray);
