@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="567a41bd-52bc-48a4-9b11-48414d31ec50" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/gittask/GitTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gittask/GitTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gittask/GitTask.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
