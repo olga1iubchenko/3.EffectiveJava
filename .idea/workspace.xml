@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="567a41bd-52bc-48a4-9b11-48414d31ec50" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/gittask/GitTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gittask/GitTask.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,9 +158,9 @@
       <list>
         <item itemvalue="JUnit.SortingAlgorithmAggregatorTest.test" />
         <item itemvalue="JUnit.RecursiveBinarySearchAlgorithmTest.test" />
+        <item itemvalue="JUnit.JavaCacheUnitTest.testObjectsCleanupTime" />
         <item itemvalue="JUnit.IterativeBinarySearchAlgorithmTest.test" />
         <item itemvalue="JUnit.IterativeBinarySearchAlgorithmTest" />
-        <item itemvalue="JUnit.JavaCacheUnitTest.testObjectsCleanupTime" />
       </list>
     </recent_temporary>
   </component>
@@ -294,7 +293,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/algorithms/junitclassic/MergeSortAlgorithmTest.java</url>
+          <url>file://$PROJECT_DIR$/../6.Git/gitTask/src/test/java/com/epam/elearn/effectivejava/algorithms/junitclassic/MergeSortAlgorithmTest.java</url>
           <line>24</line>
           <properties class="com.epam.elearn.effectivejava.algorithms.junitclassic.MergeSortAlgorithmTest" method="testShouldReturnUnsuccessfulOnEmptyArray">
             <option name="EMULATED" value="true" />
@@ -302,7 +301,7 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/algorithms/parametrized/search/impl/IterativeBinarySearchAlgorithmTest.java</url>
+          <url>file://$PROJECT_DIR$/../6.Git/gitTask/src/test/java/com/epam/elearn/effectivejava/algorithms/parametrized/search/impl/IterativeBinarySearchAlgorithmTest.java</url>
           <line>45</line>
           <properties class="com.epam.elearn.effectivejava.algorithms.parametrized.search.impl.IterativeBinarySearchAlgorithmTest" method="test">
             <option name="EMULATED" value="true" />
@@ -310,7 +309,7 @@
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/epam/elearn/effectivejava/algorithms/parametrized/search/impl/IterativeBinarySearchAlgorithmTest.java</url>
+          <url>file://$PROJECT_DIR$/../6.Git/gitTask/src/test/java/com/epam/elearn/effectivejava/algorithms/parametrized/search/impl/IterativeBinarySearchAlgorithmTest.java</url>
           <line>47</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>

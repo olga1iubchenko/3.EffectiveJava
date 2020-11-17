@@ -9,5 +9,5 @@ public class GitTask {
     public String pullWithRebaseTwo () { return null; }
 
     public String pullWithRebaseThree () { return null; }
-
+  
 }

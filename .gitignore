@@ -1,0 +1,7 @@
+.idea
+.idea/workspace.xml
+*.iml
+target/
+*.log
+common/src/main/resources/environments/local.properties
+*.dll
